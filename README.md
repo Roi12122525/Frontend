@@ -24,8 +24,8 @@ Une application web moderne pour la création et la vérification de diplômes s
 
 1. Clonez le repository :
 ```bash
-git clone [URL_DU_REPO]
-cd [NOM_DU_REPO]
+git clone https://github.com/Roi12122525/Frontend.git
+cd Frontend
 ```
 
 2. Installez les dépendances :
